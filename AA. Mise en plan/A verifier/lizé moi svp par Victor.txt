@@ -1,7 +1,0 @@
-18M_SU_0700_003: mise en plan de la chappe de suspension (c'est la même à l'arrière et à l'avant, d'où le "quantité : 4") avec prise en compte de vos remarques. Il faut encore fixer la question du diamiètre de l'alésage où passera la vis M8
-
-
-
-18M_SU_0800_004-chape : Chappe de basculeur arrière, je n'ai pas réussi à coter la partie en contact avec les tubes du chassis. Il faut que je voie avec son concepteur comment il a pensé la pièce.
-
-Chappe de basculeur avant : je suis en train de vérifier la géométrie avec GTE, je pourrai faire la mise en plan mardi aprem.
