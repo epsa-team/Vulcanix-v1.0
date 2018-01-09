@@ -1,9 +1,9 @@
-M18_SU_0700_003: Chappe de suspension avant et arrière (il reste à définir l'austement du tube de diamètre 17/à voir avec antoine elain)
+18M_SU_0700_003: Chappe de suspension avant et arrière (il reste à définir l'austement du tube de diamètre 17/à voir avec antoine elain)
 
 
-M18_SU_0800_004-chape : Chappe de basculeur arrière, simba doit modifier la pièce
+18M_SU_0800_004-chape : Chappe de basculeur arrière, simba doit modifier la pièce
 
 Chappes de basculeur avant : simba doit modifier les pièces
 
-M18_SU_0600_003 : basculeur avant, le matériau doit être vérifié grâce aux éléments finis, en effet, la pièce a été légèrement modifiée.
+18M_SU_0600_003 : basculeur avant, le matériau doit être vérifié grâce aux éléments finis, en effet, la pièce a été légèrement modifiée.
 
