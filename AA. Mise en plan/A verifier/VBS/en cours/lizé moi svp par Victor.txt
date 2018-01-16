@@ -1,4 +1,4 @@
-18M_SU_0700_003: Chappe de suspension avant et arrière, à vérifier
+18M_SU_0700_003: Chappe de suspension avant et arrière==>vérifiée
 
 
 18M_SU_0800_004-chape : Chappe de basculeur arrière, simba doit modifier la pièce==> ok==>mise en plan à faire
