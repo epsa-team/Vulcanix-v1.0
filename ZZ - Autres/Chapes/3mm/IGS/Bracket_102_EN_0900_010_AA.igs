@@ -1,9 +1,8 @@
 START RECORD GO HERE.                                                   S      1
-1H,,1H;,20HCNEXT - IGES PRODUCT,33HBracket 102- Jacking bar left.igs,44HG      1
-IBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release G      2
-19 ,32,75,6,75,15,22Hchape jacking bar left,1.0,2,2HMM,1000,1.0,15H20180G      3
-114.212506,0.001,10000.0,5HSimba,15HDESKTOP-PK97GB4,11,0,15H20180114.212G      4
-506,;                                                                   G      5
+1H,,1H;,20HCNEXT - IGES PRODUCT,18HEN_0900_010_AA.igs,44HIBM CATIA IGES G      1
+- CATIA Version 5 Release 19 ,27HCATIA Version 5 Release 19 ,32,75,6,75,G      2
+15,22Hchape jacking bar left,1.0,2,2HMM,1000,1.0,15H20180209.172311,    G      3
+0.001,10000.0,8HAurelien,15HDESKTOP-SF2K4A2,11,0,15H20180209.172311,;   G      4
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      110       2       0       0       0       0       0       001010001D      3
@@ -1650,4 +1649,4 @@ IBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release G      2
 406,1,10HEsquisse.8,0,0;                                             945P    696
 110,-3.552713679E-015,0.0,-45.0,53.28187293,0.0,-10.19997101,0,      947P    697
 1,945;                                                               947P    698
-S      1G      5D    948P    698                                        T      1
+S      1G      4D    948P    698                                        T      1

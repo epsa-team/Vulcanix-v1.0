@@ -1,8 +1,9 @@
 START RECORD GO HERE.                                                   S      1
-1H,,1H;,20HCNEXT - IGES PRODUCT,33HBracket 106- Chain shield sup.igs,44HG      1
-IBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release G      2
-19 ,32,75,6,75,15,21Hchape chainshield sup,1.0,2,2HMM,1000,1.0,15H201801G      3
-17.170809,0.001,10000.0,9HClement E,7HClement,11,0,15H20180117.170809,; G      4
+1H,,1H;,20HCNEXT - IGES PRODUCT,32HBracket_106_Chain shield sup.igs,44HIG      1
+BM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release 1G      2
+9 ,32,75,6,75,15,21Hchape chainshield sup,1.0,2,2HMM,1000,1.0,15H2018020G      3
+9.172851,0.001,10000.0,8HAurelien,15HDESKTOP-SF2K4A2,11,0,15H20180209.17G      4
+2851,;                                                                  G      5
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      110       2       0       0       0       0       0       001010001D      3
@@ -366,4 +367,4 @@ IBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release G      2
 102,2,221,225,0,0;                                                   227P    129
 142,0,197,0,227,2,0,0;                                               229P    130
 144,197,1,1,217,229,0,1,1;                                           231P    131
-S      1G      4D    232P    131                                        T      1
+S      1G      5D    232P    131                                        T      1

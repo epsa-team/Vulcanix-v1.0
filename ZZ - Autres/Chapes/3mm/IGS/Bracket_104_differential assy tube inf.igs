@@ -1,9 +1,9 @@
 START RECORD GO HERE.                                                   S      1
-1H,,1H;,20HCNEXT - IGES PRODUCT,43HBracket 105- Differential assy tube iG      1
-nf.igs,44HIBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version G      2
-5 Release 19 ,32,75,6,75,15,24Hchape exc.carr - tub inf,1.0,2,2HMM,1000,G      3
-1.0,15H20180114.213126,0.001,10000.0,5HSimba,15HDESKTOP-PK97GB4,11,0,15HG      4
-20180114.213126,;                                                       G      5
+1H,,1H;,20HCNEXT - IGES PRODUCT,42HBracket_104_differential assy tube inG      1
+f.igs,44HIBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5G      2
+ Release 19 ,32,75,6,75,15,24Hchape exc.carr - tub inf,1.0,2,2HMM,1000, G      3
+1.0,15H20180209.172555,0.001,10000.0,8HAurelien,15HDESKTOP-SF2K4A2,11,0,G      4
+15H20180209.172555,;                                                    G      5
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      110       2       0       0       0       0       0       001010001D      3
