@@ -2,8 +2,8 @@ START RECORD GO HERE.                                                   S      1
 1H,,1H;,20HCNEXT - IGES PRODUCT,39HSU_0100_010 (Avant Sup Arriere Sup).iG      1
 gs,44HIBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 ReG      2
 lease 19 ,32,75,6,75,15,38Hchape sus tri avant sup gauche arr sup,1.0,2,G      3
-2HMM,1000,1.0,15H20180209.184351,0.001,10000.0,5HSimba,15HDESKTOP-PK97GBG      4
-4,11,0,15H20180209.184351,;                                             G      5
+2HMM,1000,1.0,15H20180212.100859,0.001,10000.0,5HBrice,8HPC-BRICE,11,0, G      4
+15H20180212.100859,;                                                    G      5
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      108       2       0       0       0       0       0       001010001D      3
