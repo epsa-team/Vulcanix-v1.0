@@ -1,9 +1,8 @@
 START RECORD GO HERE.                                                   S      1
-1H,,1H;,20HCNEXT - IGES PRODUCT,37HSU_0200_007 (Avant Inf Avant Inf).igsG      1
-,44HIBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 ReleG      2
-ase 19 ,32,75,6,75,15,40Hchape sus tri avant inf gauche avant inf,1.0,2,G      3
-2HMM,1000,1.0,15H20180212.012751,0.001,10000.0,5HBrice,8HPC-BRICE,11,0, G      4
-15H20180212.012751,;                                                    G      5
+1H,,1H;,20HCNEXT - IGES PRODUCT,15HSU_0200_007.igs,44HIBM CATIA IGES - CG      1
+ATIA Version 5 Release 19 ,27HCATIA Version 5 Release 19 ,32,75,6,75,15,G      2
+40Hchape sus tri avant inf gauche avant inf,1.0,2,2HMM,1000,1.0,15H20180G      3
+212.012609,0.001,10000.0,5HBrice,8HPC-BRICE,11,0,15H20180212.012609,;   G      4
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      110       2       0       0       0       0       0       001010001D      3
@@ -427,4 +426,4 @@ ase 19 ,32,75,6,75,15,40Hchape sus tri avant inf gauche avant inf,1.0,2,G      3
 406,1,11HEsquisse.16,0,0;                                            231P    187
 110,0.3495861964,-42.46235498,14.8237869,40.34823067,                233P    188
 -42.13305215,14.8237869,0,1,231;                                     233P    189
-S      1G      5D    234P    189                                        T      1
+S      1G      4D    234P    189                                        T      1
