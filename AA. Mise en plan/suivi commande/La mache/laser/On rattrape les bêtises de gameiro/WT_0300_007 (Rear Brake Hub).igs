@@ -2,8 +2,13 @@ START RECORD GO HERE.                                                   S      1
 1H,,1H;,20HCNEXT - IGES PRODUCT,32HWT_0300_007 (Rear Brake Hub).igs,44HIG      1
 BM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 Release 1G      2
 9 ,32,75,6,75,15,28HWT_0300_007 (Rear Brake Hub),1.0,2,2HMM,1000,1.0,15HG      3
+<<<<<<< HEAD
 20180322.092542,0.001,10000.0,6HArthur,9HPC-ARTHUR,11,0,15H20180322.0925G      4
 42,;                                                                    G      5
+=======
+20180323.101021,0.001,10000.0,5HBrice,8HPC-BRICE,11,0,15H20180323.101021G      4
+,;                                                                      G      5
+>>>>>>> master
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      108       2       0       0       0       0       0       001010001D      3
