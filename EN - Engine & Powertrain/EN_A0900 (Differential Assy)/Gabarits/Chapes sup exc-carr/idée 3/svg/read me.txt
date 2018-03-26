@@ -1,3 +1,0 @@
-épaisseurs : tout en 6 mm sauf "gab_d_plaque" et "gab_d_plaque2" en 4 mm (sinon 3 mm).
-
-quantités : tout en simple sauf les trois séparateurs en x2
