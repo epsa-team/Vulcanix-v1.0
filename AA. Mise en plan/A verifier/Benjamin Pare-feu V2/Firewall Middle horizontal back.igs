@@ -2,8 +2,8 @@ START RECORD GO HERE.                                                   S      1
 1H,,1H;,20HCNEXT - IGES PRODUCT,35HFirewall Middle horizontal back.igs, G      1
 44HIBM CATIA IGES - CATIA Version 5 Release 19 ,27HCATIA Version 5 ReleaG      2
 se 19 ,32,75,6,75,15,31HFirewall Middle horizontal back,1.0,2,2HMM,1000,G      3
-1.0,15H20180528.205207,0.001,10000.0,8HBenjamin,15HDESKTOP-B0DRVC6,11,0,G      4
-15H20180528.205207,;                                                    G      5
+1.0,15H20180528.234200,0.001,10000.0,8HBenjamin,15HDESKTOP-B0DRVC6,11,0,G      4
+15H20180528.234200,;                                                    G      5
      406       1       0       0       0       0       0       000010201D      1
      406       0       0       1      15                               0D      2
      108       2       0       0       0       0       0       001010001D      3
