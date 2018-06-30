@@ -23,7 +23,8 @@ ylabel('Camber (deg)')
 legend('Front', 'Rear')
 
 figure
-plot(Steering_Angle_Right, Steering_Angle_Left, [-30,30],[-30,30])
+plot(Steering_Angle_Left, Steering_Angle_Right, [-30,30],[-30,30])
 title('Angle comparison between Wheel')
-xlabel('Right Wheel (°)')
-ylabel('Left Wheel (°)')
+xlabel('Left Wheel (°)')
+ylabel('Right Wheel (°)')
+axis([0,25,0,25])
