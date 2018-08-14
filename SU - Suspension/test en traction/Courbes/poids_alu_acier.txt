@@ -1,0 +1,15 @@
+Alu :
+
+avant sup : 0,339
+avant inf : 0,266kg
+arr sup : 0,343
+arr inf : 0,234kg
+Bielettes : 0,086kg
+
+
+Acier :
+
+Avant sup : 0,545kg
+Avant inf : 0,518kg
+Bielette : 0,191kg
+
