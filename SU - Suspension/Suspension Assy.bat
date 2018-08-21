@@ -2,4 +2,4 @@
 ".\Suspension Assy\Suspension Assy.CATProduct""
 
 cmd.exe /c
-
+exit
